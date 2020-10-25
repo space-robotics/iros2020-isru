@@ -1,0 +1,4 @@
+[submodule "EZ-RASSOR"]
+	path = EZ-RASSOR
+    url = https://github.com/FlaSpaceInst/EZ-RASSOR.git
+    branch = f5acdba6d86de762c54e8b3705d17f035aa9c494
